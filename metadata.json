@@ -1,0 +1,6 @@
+{
+  "name": "PRISMA IA - MODO VECTOR OTC",
+  "description": "Terminal operacional PRISMA IA com Estratégia de Vela de Comando (Lógica do Preço) e Primeiro Pullback exclusivo com filtros anti-ruído na Linha de Defesa, 148 ativos OTC em tempo real, assistente de voz interativo e execução aos 00s.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
